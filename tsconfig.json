@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    "noUncheckedIndexedAccess": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "target": "ES2022"
+  },
+  "files": [],
+  "references": [
+    { "path": "./workspace-buddy/tsconfig.json" }
+  ],
+  "$schema": "https://json.schemastore.org/tsconfig"
+}

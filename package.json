@@ -1,0 +1,17 @@
+{
+  "name": "botfarm",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "pnpm -r build",
+    "dev": "pnpm --filter @botfarm/workspace-buddy dev",
+    "start": "pnpm --filter @botfarm/workspace-buddy start",
+    "buddy:build": "pnpm --filter @botfarm/workspace-buddy build",
+    "buddy:dev": "pnpm --filter @botfarm/workspace-buddy dev",
+    "buddy:start": "pnpm --filter @botfarm/workspace-buddy start"
+  },
+  "packageManager": "pnpm@10.11.0",
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,10 @@
+node_modules
+.pnpm-store
+.env
+.DS_Store
+*.log
+
+# workspace packages
+**/node_modules
+**/dist
+**/*.tsbuildinfo
